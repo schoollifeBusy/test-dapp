@@ -1,6 +1,6 @@
 pragma solidity ^0.4.0;
 
-contract PiggyBank {
+contract PiggyBank {schoolboy Timothy 
 
     uint private balance;
     address public owner;
